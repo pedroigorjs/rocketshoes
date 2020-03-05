@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# Rocketshoes
+A e-commerce of shoes with React, Redux and Saga.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# rocketshoes
-A e-commerce of shoes.
->>>>>>> 39c70c4303b7fd3865a7a5b3b548bae03bfbbd45
+
+
